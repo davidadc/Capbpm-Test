@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  api_url: 'https://apps.capbpm.com/fit-jpa/Company/findAll'
 };
